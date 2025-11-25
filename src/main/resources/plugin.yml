@@ -1,0 +1,15 @@
+name: Glyphs
+version: '1.0-SNAPSHOT'
+main: dev.lost.glyphs.Glyphs
+api-version: '1.19'
+prefix: Glyphs
+authors: [ Misieur ]
+description: A lightweight glyph plugin for Spigot using a resource pack
+website: misieur.me
+commands:
+  glyphs:
+    permission: glyphs.command
+permissions:
+  glyphs.command:
+    description: Allows the use of the /glyphs command
+    default: op
