@@ -1,5 +1,5 @@
 # Glyphs,
-## A Lightweight Spigot plugin to create glyphs using a resource pack by Misieur
+## A Lightweight Spigot plugin to create glyphs using a resource pack by LostEngine
 
 ## How to create new glyphs
 To create new glyphs, you first want to find the `glyphs.yml` file in the plugin folder and open it.
@@ -67,4 +67,5 @@ examples:
 ```
 ```html
 <tr:offsets.-40>
+
 ```
